@@ -1,2 +1,2 @@
-# Flan_Alpaca_2.0
+# Final_MS_Project
 finetuning FLAN T5 model on Alpaca dataset
